@@ -1,6 +1,4 @@
- # Homework #3
  # name: Tejas Prasad
- # sbuid: 110334994
 
 
 ##############################
